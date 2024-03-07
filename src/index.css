@@ -45,13 +45,14 @@ caption {
   margin-block: 0.4rem;
   border: 8px solid rgb(119, 220, 18);
 }
-.player{
-  border-bottom: 1px solid black;
-}
+
 td {
   width: 40vw;
 }
 .score {
   color: brown;
   font-weight: 700;
+}
+td {
+  outline: 2px solid black;
 }
